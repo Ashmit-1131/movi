@@ -1,12 +1,5 @@
 {
-    "movies": [
-   
-    ],
-  "wishlist": [
-   
-    ],
-    "users":[
-      
-    ]
+    "tasks": [ {"id":"1","text":"task1"}]
+  
   }
   
